@@ -12,5 +12,5 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react, azure, html,css,javascript,python,git,github,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,java,figma,vscode,express,firebase,java,docker,aws,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=nodejs,java,figma,vscode,express,firebase,java,docker,aws" />
 </div>
