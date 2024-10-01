@@ -69,6 +69,7 @@
   <img align="left" alt="Overview" src="https://github.com/Yohann30Elias/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
   <img align="left" alt="Langs" src="https://github.com/Yohann30Elias/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </p>
+<br>
 <h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="mailto:yriond30@gmail.com">
