@@ -75,6 +75,8 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 <h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="mailto:yriond30@gmail.com">
