@@ -70,13 +70,6 @@
   <img alt="Langs" src="https://github.com/Yohann30Elias/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </p>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="mailto:yriond30@gmail.com">
