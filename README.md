@@ -66,8 +66,8 @@
 </p>
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yohann30Elias&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohann30Elias&layout=donut&show_icons=true&theme=tokyonight" alt="Top Languages" />
+  <img align="left" alt="Overview" src="https://github.com/Yohann30Elias/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img align="left" alt="Langs" src="https://github.com/Yohann30Elias/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </p>
 <h2 align="center">Connect with Me</h2>
 <p align="center">
