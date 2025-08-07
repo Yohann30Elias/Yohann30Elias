@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yohann Élias Riond</h1>
 <h3 align="center">A full-stack developer from Switzerland</h3>
+<h4 align="center">Currently working@Agilita</h4>
 <br/>
 <hr/>
 <h2 align="center">About Me</h2>
