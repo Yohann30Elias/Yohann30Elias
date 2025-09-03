@@ -60,10 +60,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
   </a>
 </p>
-<h2 align="center">Current Projects</h2>
-<p align="center">
-  <a href="https://github.com/Yohann30Elias/Chess" target="_blank">Schach</a> Just my own Chess game, where you can play Chess and later on with different modes<br/>
-</p>
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
   <img alt="Overview" src="https://github.com/Yohann30Elias/github-stats/blob/master/generated/overview.svg" />
