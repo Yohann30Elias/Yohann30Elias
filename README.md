@@ -4,7 +4,7 @@
 <hr/>
 <h2 align="center">About Me</h2>
 <p align="center">
-  I love learning new technologies. Currently, I’m exploring full-stack development with a focus on SAP.
+  I love learning new technologies. Currently, I’m exploring full-stack development.
 </p>
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <p align="center">
