@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yohann Élias Riond</h1>
+<h1 align="center">Hi 👋, I'm Yohann</h1>
 <h3 align="center">A full-stack developer from Switzerland</h3>
 <br/>
 <hr/>
@@ -64,10 +64,4 @@
 <p align="center">
   <img alt="Overview" src="https://github.com/Yohann30Elias/github-stats/blob/master/generated/overview.svg" />
   <img alt="Langs" src="https://github.com/Yohann30Elias/github-stats/blob/master/generated/languages.svg" />
-</p>
-<h2 align="center">Connect with Me</h2>
-<p align="center">
-  <a href="mailto:yriond30@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
 </p>
