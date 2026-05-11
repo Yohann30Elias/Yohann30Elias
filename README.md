@@ -62,6 +62,6 @@
 </p>
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img alt="Overview" src="https://github.com/Yohann30Elias/github-stats/blob/master/generated/overview.svg" />
-  <img alt="Langs" src="https://github.com/Yohann30Elias/github-stats/blob/master/generated/languages.svg" />
+  <img alt="Overview" src="https://raw.githubusercontent.com/Yohann30Elias/github-stats/generated/overview.svg" />
+  <img alt="Languages" src="https://raw.githubusercontent.com/Yohann30Elias/github-stats/generated/languages.svg" />
 </p>
